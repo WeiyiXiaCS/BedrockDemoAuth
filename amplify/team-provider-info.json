@@ -10,6 +10,11 @@
       "StackName": "amplify-bedrockdemoauth-dev-55eb6",
       "StackId": "arn:aws:cloudformation:eu-west-1:184615902119:stack/amplify-bedrockdemoauth-dev-55eb6/f1d82fe0-6097-11ef-a67b-029eeb3a6007",
       "AmplifyAppId": "dlyjv3re84otz"
+    },
+    "categories": {
+      "auth": {
+        "bedrockdemoauthef1d6e76": {}
+      }
     }
   }
 }
