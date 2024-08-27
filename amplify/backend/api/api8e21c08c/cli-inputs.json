@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/question": {
+      "name": "/question",
+      "lambdaFunction": "reactrestauthca0c423d",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
